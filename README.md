@@ -1,0 +1,2 @@
+# Crispr_rolls
+Crispr_rolls est un site en cours de développement dans le cadre d'un projet d'IUT. Il mettra en valeur les avancées en génétique et plus particulièrement les avancées scientifiques de la méthode Cas_9. Il regroupera des articles de chercheurs et des actualités génétiques vulgarisées et formelles. Le but étant de permettre au plus grand nombre de comprendre et d'accompagner les chercheurs et les laboratoires. 26 minutes ago romain yohan
